@@ -41,6 +41,6 @@ It consists of **memory cells** that allow it to retain information over long pe
 
 ## 📊 Results & Visualizations
 
-➡️ For more details on the methodology, results, and interactive visualizations, please refer to the **notebook [`predictions_visualizations.ipynb`](./predictions_visualizations.ipynb)**.
+➡️ For more details on the methodology, results, and visualizations, please refer to the **notebook [`predictions_visualizations.ipynb`](./predictions_visualizations.ipynb)**.
 
 
