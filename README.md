@@ -1,4 +1,4 @@
-# 🔮 Time Series Forecasting — ORE Electricity Consumption ⚡
+# Time Series Forecasting — ORE Electricity Consumption
 
 ## 📌 Context
 
