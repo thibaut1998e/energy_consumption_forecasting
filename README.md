@@ -29,7 +29,7 @@ To further improve the forecast, two **deep learning** models are trained on the
 #### 🔄 Transformer Sequence-to-Sequence
 
 A **Transformer Sequence-to-Sequence** is a model based on the **Transformer** architecture, originally developed for natural language processing.  
-The models take as input an input sequence of specified lenght. It emdbends all the elements of the input sequence into a latent space, where the embedings of a given element of the context window is adjusted by using the embedding of the other elements. Then the embedings are used to predict the following elements of the time series. 
+The models take as input an input sequence of specified lenght. It emdbends all the elements of the input sequence into a latent space. Through layers of multi-head self-attention, each token’s representation is updated by attending to all other tokens in the sequence.
 
 
 #### 🔁 LSTM (Long Short-Term Memory)
